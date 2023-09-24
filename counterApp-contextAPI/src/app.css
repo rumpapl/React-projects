@@ -1,0 +1,15 @@
+.header {
+    height: 20vh;
+    background-color: aqua;
+}
+
+.body {
+    height: 60vh;
+    background-color: #59a4e5;
+}
+
+.footer {
+    height: 20vh;
+    background-color: aqua;
+
+}
