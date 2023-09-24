@@ -6,3 +6,9 @@
     height: 100%;
     flex-direction: column;
 }
+
+.footer_wraper {
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+}
